@@ -1,6 +1,6 @@
 # vba-challenge
 
-# Week 2 Challenge, create a VBA script based off the below instructions:
+## Week 2 Challenge, create a VBA script based off the below instructions:
 
 Create a script that loops through all the stocks for one year and outputs the following information:
 
